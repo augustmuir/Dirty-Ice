@@ -1,0 +1,21 @@
+{
+    "name": "dirty-ice",
+    "displayName": "Dirty Ice",
+    "description": "A non-blinding light theme, for people who typically don't like light themes.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dirty Ice",
+                "uiTheme": "vs",
+                "path": "./themes/Dirty Ice-color-theme.json"
+            }
+        ]
+    }
+}
