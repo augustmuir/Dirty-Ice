@@ -3,6 +3,11 @@
     "displayName": "Dirty Ice",
     "description": "A non-blinding light theme, for people who typically don't like light themes.",
     "version": "0.0.1",
+    "publisher": "augustkimo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/augustkimo/Dirty-Ice.git"
+    },
     "engines": {
         "vscode": "^1.65.0"
     },
